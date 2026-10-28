@@ -1,0 +1,197 @@
+{
+ "atualizadoEm": "2026-10-28",
+ "distribuidoras": [
+  {
+   "est": [
+    "Telhado cerâmico / colonial",
+    "Telhado de fibrocimento (madeira)",
+    "Telhado de fibrocimento (metálica)",
+    "Telhado metálico trapezoidal (mini trilho)",
+    "Laje – Lastro Solar (polietileno)",
+    "Solo",
+    "Flutuante – Aquafort"
+   ],
+   "fontes": [
+    "https://www.fortlevsolar.com.br/produtos",
+    "https://canalsolar.com.br/fortlev-solar-lanca-estrutura-100-em-polietileno-para-montagem-de-paineis/"
+   ],
+   "inv": [
+    "Sungrow: 3,4,5,6,10",
+    "Growatt: 7.3",
+    "FoxESS: 10",
+    "Deye (híbrido): 6",
+    "Livoltek (híbrido): 6",
+    "Hoymiles (micro): 2.25",
+    "NEP (micro): 2.5",
+    "Sungrow (micro): 2.5"
+   ],
+   "mod": [
+    "Leapton 630",
+    "Helius 620",
+    "Helius 630",
+    "DMEGC 620",
+    "DMEGC 715"
+   ],
+   "nome": "Fortlev Solar",
+   "resumo": "Módulos e inversores confirmados no catálogo público (amostra de 15 de 381 itens). Estruturas Lastro Solar e Aquafort confirmadas.",
+   "sugestao": null,
+   "travado": false,
+   "verificadoEm": "2026-10-28"
+  },
+  {
+   "est": [
+    "Telhado cerâmico / colonial",
+    "Telhado de fibrocimento (madeira)",
+    "Telhado de fibrocimento (metálica)",
+    "Telhado metálico trapezoidal (mini trilho)",
+    "Telhado metálico ondulado",
+    "Laje",
+    "Solo"
+   ],
+   "fontes": [
+    "https://belenergy.com.br/",
+    "https://canalsolar.com.br/belenergy-se-consolida-como-a-maior-distribuidora-deye-da-america-latina/"
+   ],
+   "inv": [
+    "Deye: 3,5,6,8,10,12,15,20,25,30,50",
+    "Solis: 3,4,5,6,8,10,15,20,25,30,40,50,60,75",
+    "Growatt: 3,5,6,8,10,12,15,20,25,30,40,50,60,75",
+    "Sungrow: 3,4,5,6,8,10,12,15,20,25,30,40,50",
+    "FoxESS: 3,5,6,8,10,12,15,20,25,30,50",
+    "Auxsol: 3,5,6,7.5,10",
+    "Deye (micro): 2"
+   ],
+   "mod": [
+    "Trina Solar 610",
+    "Trina Solar 620",
+    "Astronergy 610",
+    "Astronergy 620"
+   ],
+   "nome": "Belenus",
+   "resumo": "Venda solar pela BelEnergy (grupo Belenus). Marcas confirmadas pelos logos do site; potências dos módulos e tamanhos dos inversores são estimados.",
+   "sugestao": null,
+   "travado": false,
+   "verificadoEm": "2026-10-28"
+  },
+  {
+   "est": [
+    "Telhado cerâmico / colonial",
+    "Telhado de fibrocimento (madeira)",
+    "Telhado de fibrocimento (metálica)",
+    "Telhado metálico trapezoidal (mini trilho)",
+    "Telhado metálico ondulado",
+    "Laje",
+    "Solo"
+   ],
+   "fontes": [
+    "https://energia.fotus.com.br/portifolio-de-produtos/",
+    "https://fotus.com.br/"
+   ],
+   "inv": [
+    "Auxsol: 3,5,6,7.5,10",
+    "Solis: 3,4,5,6,8,10,15,20,25,30,40,50,60,75",
+    "GoodWe: 3,5,6,8,10,15,20,25,30,50",
+    "Solplanet: 3,5,6,8,10,15,20,25,30,50",
+    "Sofar: 3,5,6,8,10,12,15,20,25,30,50",
+    "Tsuness (micro): 2.25,3",
+    "Deye (micro): 2.25"
+   ],
+   "mod": [
+    "Astronergy 600",
+    "DAH Solar 700",
+    "Era Solar 610",
+    "Era Solar 700",
+    "Hanersun 610",
+    "Jinko Solar 580",
+    "Jinko Solar 585",
+    "Jinko Solar 590",
+    "LONGi 600",
+    "LONGi 605",
+    "LONGi 610",
+    "LONGi 615",
+    "LONGi 620",
+    "LONGi 625",
+    "Renepv 700",
+    "Ronma 585",
+    "Solar N Plus 570",
+    "Solar N Plus 580",
+    "Solar N Plus 600",
+    "Sunergy 700",
+    "Sunova 610",
+    "Eging 700"
+   ],
+   "nome": "Fotus",
+   "resumo": "Módulos com potências confirmados no portfólio. Auxsol e microinversores confirmados; tamanhos de Solis, GoodWe, Solplanet e Sofar estimados.",
+   "sugestao": null,
+   "travado": false,
+   "verificadoEm": "2026-10-28"
+  },
+  {
+   "est": [
+    "Telhado cerâmico / colonial",
+    "Telhado de fibrocimento (madeira)",
+    "Telhado de fibrocimento (metálica)",
+    "Telhado metálico trapezoidal (mini trilho)",
+    "Telhado metálico ondulado",
+    "Laje",
+    "Solo",
+    "Estrutura em fibra de vidro (fabricação própria)"
+   ],
+   "fontes": [
+    "https://souenergy.com.br/",
+    "https://canalsolar.com.br/robos-e-modulos-de-700-w-serao-destaques-da-sou-energy-na-intersolar/"
+   ],
+   "inv": [
+    "Solplanet: 3,5,6,8,10,15,20,25,30,50",
+    "Solis: 3,4,5,6,8,10,15,20,25,30,40,50,60,75",
+    "Huawei: 3,4,5,6,8,10,12,15,20,30,50",
+    "Auxsol: 3,5,6,7.5,10"
+   ],
+   "mod": [
+    "Leapton 630",
+    "Leapton 700"
+   ],
+   "nome": "Sou Energy",
+   "resumo": "Marcas de inversor confirmadas pelas páginas do site (Solplanet, Solis, Huawei, Auxsol). Leapton confirmada; potências e tamanhos estimados.",
+   "sugestao": null,
+   "travado": false,
+   "verificadoEm": "2026-10-28"
+  },
+  {
+   "est": [
+    "Telhado cerâmico / colonial",
+    "Telhado de fibrocimento (madeira)",
+    "Telhado de fibrocimento (metálica)",
+    "Telhado metálico trapezoidal (mini trilho)",
+    "Telhado metálico ondulado",
+    "Laje",
+    "Solo",
+    "Estrutura Solar Group",
+    "Estrutura Pratyc"
+   ],
+   "fontes": [
+    "https://www.enfsolar.com/rb-solar",
+    "https://www.rbsolar.com.br/"
+   ],
+   "inv": [
+    "Sungrow: 3,4,5,6,8,10,12,15,20,25,30,40,50",
+    "GoodWe: 3,5,6,8,10,15,20,25,30,50",
+    "Sofar: 3,5,6,8,10,12,15,20,25,30,50",
+    "Deye: 3,5,6,8,10,12,15,20,25,30,50"
+   ],
+   "mod": [
+    "JA Solar 610",
+    "LONGi 620",
+    "Znshine 620",
+    "DMEGC 620",
+    "Helius 620",
+    "BYD 610"
+   ],
+   "nome": "RB Solar",
+   "resumo": "Marcas confirmadas por diretório do setor (ENF); potências e tamanhos estimados. Estruturas Solar Group e Pratyc.",
+   "sugestao": null,
+   "travado": false,
+   "verificadoEm": "2026-10-28"
+  }
+ ]
+}
